@@ -2,14 +2,5 @@
 __pycache__/
 .env
 
-# Step 1: Ignore the data folder (without the trailing slash initially)
+#Ignore the data folder
 data/
-
-# Step 2: Re-include the folder so we can look inside it
-!data/
-
-# Step 3: Ignore everything INSIDE that folder
-data/*
-
-# Step 4: Re-include your specific sample
-!data/sample_data.csv
