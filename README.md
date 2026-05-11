@@ -24,7 +24,7 @@ Note: this analysis can be reproduced by following the steps below and the noteb
 * **Exclusions:** 'Stop and Search' data has been deliberately excluded to maintain a strict analytical focus on metrics that directly impact residential desirability and property valuation.
 
 ### Phase 1: Data Acquisition
-Raw data was sourced directly from the UK Government Police API ([data.police.uk](https://data.police.uk/data/)). 
+Raw data was sourced directly from the UK Government Police API ([data.police.uk](https://data.police.uk/data/)), checking the boxes for each of the 4 selected forces, and 'Include crime data' and 'Include outcomes data'.
 
 To ensure a robust, cross-sectional analysis of the UK property market, forces were selected based on distinct demographic profiles:
 * **Metropolitan Police:** High-density urban baseline.
